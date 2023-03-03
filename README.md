@@ -92,19 +92,44 @@ Until now, Cyclistic’s marketing strategy relied on building general awareness
 
 ## Insights & Recommendations
 ### Insights
+
+#### Visualization - Number of Trips By Usertype
+![NoOfTrips_Viz_Usertype](viz/NoOfTrips_Viz_Usertype.JPG)
+
 1. 55.5% of the total trips were made by members and 45.5% by casual riders.
+
+#### Visualization - Number of Trips By Month
+![NoOfTrips_Viz_ByMonth](viz/NoOfTrips_Viz_ByMonth.JPG)
 
 2. Highest number of trips were made in the months of Jun, July and Aug. These may be due to the fact that the weather is more favourable for cycling. 
 
+#### Visualization - Number of Trips By Day Of Week
+![NoOfTrips_Viz_ByDaysOfWeek](viz/NoOfTrips_Viz_ByDaysOfWeek.JPG)
+
 3. The number of trips by member was relatively constant throughout the days of the week, while it spiked during the weekends for casual riders. The number of trips made on Saturdays by casual riders was almost twice that of weekdays. 
+
+#### Visualization - Number of Trips By Hour
+![NoOfTrips_Viz_ByMonth](viz/NoOfTrips_Viz_ByHour.JPG)
 
 4. 1700hrs to 1759hrs was the peak hour for both members and casual riders. 
 
+#### Visualization - Average Ride Duration By Usertype
+![AvgRideDuration_Viz_Usertype](viz/AvgRideDuration_Viz_Usertype.JPG)
+
 5. Average ride duration by casual riders was 36.8 minutes (71.4%) in contrast to 14.7 minutes (28.6%) by members. In general, average ride duration by casual riders more than doubled that of members. 
+
+#### Visualization - Average Ride Duration By Month
+![AvgRideDuration_Viz_ByMonth](viz/AvgRideDuration_Viz_ByMonth.JPG)
 
 6. The average ride duration for both casual riders and members was relatively constant over the months with the peak in Feb. 
 
+#### Visualization - Average Ride Duration By Day of Week
+![AvgRideDuration_Viz_ByDayofWeek](viz/AvgRideDuration_Viz_ByDayofWeek.JPG)
+
 7. Ride duration was the highest during the weekends for both casual riders and members. 
+
+#### Visualization - Average Ride Duration By Hour
+![AvgRideDuration_Viz_ByHour](viz/AvgRideDuration_Viz_ByHour.JPG)
 
 8. For casual riders, longest average ride durations occurred from 11pm to 4am, ranging from 43 minutes to 60 minutes. 
 
