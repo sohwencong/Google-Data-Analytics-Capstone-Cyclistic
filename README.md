@@ -83,6 +83,12 @@ Until now, Cyclistic’s marketing strategy relied on building general awareness
    c.	By Days (of Week)
 
    d.	By Month
+   
+### Dashboard - Number of Trips Analysis
+![NoOfTrips_Dashboard](viz/NoOfTrips_Dashboard.JPG)
+
+### Dashboard - Average Ride Duration Analysis
+![AvgRideDuration_Dashboard](viz/AvgRideDuration_Dashboard.JPG)
 
 ## Insights & Recommendations
 ### Insights
