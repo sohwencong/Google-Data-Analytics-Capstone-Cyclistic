@@ -2,9 +2,9 @@
 1. [Background](README.md#background)
 2. [Objectives](README.md#objectives)
 3. [Steps](README.md#steps)
-4. [Process & Analyze](README.md#process&analyze)
-5. [Analyze & Share](README.md#analyze&share)
-6. [Insights & Recommendations](README.md#insights&recommendations)
+4. [Process & Analyze](README.md#process--analyze)
+5. [Analyze & Share](README.md#analyze--share)
+6. [Insights & Recommendations](README.md#insights--recommendations)
 
 ## Background
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime. 
